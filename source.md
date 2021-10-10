@@ -350,7 +350,7 @@ V:
 ## Color Models: RYB
 
 <section>
-	<iframe width="420" height="345" src="http://www.youtube.com/embed/GGq6FVYDjQY"></iframe>
+	<iframe width="420" height="345" src="https://www.youtube.com/embed/2hvprCbk1HU"></iframe>
 </section>
 [Johann Wolfgang von Goethe](http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe). Theory of Colors (1810)
 
